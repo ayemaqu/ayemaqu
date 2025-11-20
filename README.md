@@ -4,7 +4,7 @@
 ### About me
 Hi! I’m Ayema, a data analyst driven by curiosity and the question “Why?”. I love going beyond the numbers to understand the real context behind them, digging into the story a dataset is trying to tell. I believe that storytelling is one of the most important parts of being a data analyst. Clear communication helps stakeholders understand what I found, why it matters, and how it can guide better decisions. One of my favorite parts of the process is creating visualizations and walking people through them in simple, clear language. Equity and impact guide my work. I care about making sure the insights I produce help create fairer, more thoughtful outcomes for the communities they affect.
 
-## When I code, I rely on 👇🏼
+#### When I code, I rely on 👇🏼
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-F29111?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -22,6 +22,11 @@ Hi! I’m Ayema, a data analyst driven by curiosity and the question “Why?”.
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
+#### I'm currently working on:
+- I’m exploring ideas for a Formula 1 data project. I’ve been researching different angles because I’m really interested in F1 as a sport and want to see how I can contribute with data. Right now, I’m looking into available datasets, packages, and analysis approaches to find a direction that feels exciting and meaningful.
+  
+#### I'm currently learning
+- I’m diving deeper into modeling. I’m learning how to build, interpret, and evaluate different models, and how to use them to explain patterns, make predictions, and communicate insights clearly. I’ve been practicing concepts like linear regression, logistic regression, feature engineering, and understanding how model decisions are made.
 
 
 <!--
