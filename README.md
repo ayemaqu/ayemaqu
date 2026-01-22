@@ -23,7 +23,7 @@ Hi! I’m Ayema, a data analyst driven by curiosity and the question “Why?”.
 </p>
 
 #### I'm currently working on:
-- I’m exploring ideas for a Formula 1 data project. I’ve been researching different angles because I’m really interested in F1 as a sport and want to see how I can contribute with data. Right now, I’m looking into available datasets, packages, and analysis approaches to find a direction that feels exciting and meaningful.
+- Currently working on a civic data project exploring food insecurity and food access for children living in NYC family shelters, with a focus on how neighborhood resources align with need. 
   
 #### I'm currently learning
 - I’m diving deeper into modeling. I’m learning how to build, interpret, and evaluate different models, and how to use them to explain patterns, make predictions, and communicate insights clearly. I’ve been practicing concepts like linear regression, logistic regression, feature engineering, and understanding how model decisions are made.
