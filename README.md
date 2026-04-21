@@ -1,5 +1,5 @@
 ## Welcome 👋🏼
-<img width="1584" height="396" alt="Green and Pink Illustrative Run Club Banner" src="https://github.com/user-attachments/assets/c9ce10dc-64cc-40d6-9d10-fe11ef8a79a5" />
+<img width="1584" height="500" alt="Green and Pink Illustrative Run Club Banner" src="https://github.com/user-attachments/assets/c9ce10dc-64cc-40d6-9d10-fe11ef8a79a5" />
 
 ### About me
 Hi! I’m Ayema, a data analyst driven by curiosity and the question “Why?”. I love going beyond the numbers to understand the real context behind them, digging into the story a dataset is trying to tell. I believe that storytelling is one of the most important parts of being a data analyst. Clear communication helps stakeholders understand what I found, why it matters, and how it can guide better decisions. One of my favorite parts of the process is creating visualizations and walking people through them in simple, clear language. Equity and impact guide my work. I care about making sure the insights I produce help create fairer, more thoughtful outcomes for the communities they affect.
