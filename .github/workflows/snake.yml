@@ -16,7 +16,7 @@ jobs:
           github_user_name: ayemaqu
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg?color_snake=E8A0BF&color_dots=#1a1a2e,#c084fc,#d946a8,#be185d,#9d174d
 
       - name: Push to output branch
         uses: peaceiris/actions-gh-pages@v3
