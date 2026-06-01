@@ -1,10 +1,10 @@
 name: Generate Snake
-
+ 
 on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
-
+ 
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -15,8 +15,9 @@ jobs:
         with:
           github_user_name: ayemaqu
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?color_snake=fef08a&color_dots=2d1b69,6b21a8,c084fc,e879f9,f9a8d4
-     
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg
+ 
       - name: Push to output branch
         uses: peaceiris/actions-gh-pages@v3
         with:
@@ -24,3 +25,4 @@ jobs:
           publish_dir: ./dist
           publish_branch: output
           force_orphan: true
+ 
