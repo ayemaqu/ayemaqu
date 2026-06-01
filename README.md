@@ -8,15 +8,15 @@
 
 ---
 
-### About me
+### Hi, welcome to my GitHub! <img src="https://camo.githubusercontent.com/f827012e63dcd003bceedb3a640f22a0d05bdf25f5bfc1129bc43b84d78e0083/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313539333535353338392f393537392f626c6f625f657863697465642e6769663f31353933353535333839" width="30"/>
 
-Data analyst who believes the best insights are the ones that actually mean something to someone. I dig into messy datasets, find the story hiding in the numbers, and make sure that story lands whether you know SQL or not.
+I've been surrounded by technology since I was a kid, from gaming to growing up during the rise of the internet. What really pushed me toward tech was realizing how much power there is behind data. Data can tell stories, reveal patterns, and help people make decisions that actually impact communities.
 
-I approach data like a detective. I ask a lot of questions, I document everything, and I do not stop until something makes sense. I care about the details and I care about getting it right.
+To me, data is not just about finding answers. It's about understanding why we are asking the question in the first place, why the answer matters, and what we can do with it. I like approaching data with curiosity and intentionality. I ask a lot of "why" questions, because that is usually where the real story starts to come out.
 
-Outside the numbers I love storytelling, making things visual, and translating technical findings into plain English for anyone in the room.
+I'm still growing in this journey, but what excites me most is using data to make information clearer, more meaningful, and more connected to people's real lives.
 
-Always learning, always curious, always one more question away from a breakthrough.
+Take a look at one of my data projects focused on how data impacts people: **[NYC Food Access & Coverage Analysis](https://github.com/ayemaqu/NYC-Food-Access-Coverage-Analysis)**
 
 ---
 
@@ -44,16 +44,13 @@ Always learning, always curious, always one more question away from a breakthrou
 ### 🔍 Currently working on
 
 **Formula 1 Performance Analysis**
-> Exploring whether race outcomes come down to the driver, the team strategy, or both — and whether that balance has shifted across different eras of the sport.
-
-**NYC Food Access & Coverage Analysis**
-> A civic data project exploring food insecurity and food access for children living in NYC family shelters, with a focus on how neighborhood resources align with need.
+> Exploring whether race outcomes come down to the driver, the team strategy, or both and whether that balance has shifted across different eras of the sport.
 
 ---
 
-### 📚 Currently learning
+### Currently learning
 
-> Diving deeper into data structures, storage types, and their use cases — including the **Medallion Architecture** (Bronze → Silver → Gold) and how data moves through a pipeline from raw to ready.
+> Diving deeper into data structures, storage types, and their use cases including the **Medallion Architecture** (Bronze → Silver → Gold) and how data moves through a pipeline from raw to ready.
 
 ---
 
@@ -88,7 +85,6 @@ Always learning, always curious, always one more question away from a breakthrou
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-f9a8d4?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayemaqureshi)
 [![GitHub](https://img.shields.io/badge/GitHub-c084fc?style=flat-square&logo=github&logoColor=white)](https://github.com/ayemaqu)
 
-*"I ask 'why?' way too much — but it works out in data."*
+*"I ask 'why?' way too much but it works out in data."*
 
 </div>
-
