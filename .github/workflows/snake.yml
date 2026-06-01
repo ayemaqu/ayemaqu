@@ -1,31 +1,27 @@
 name: Generate Snake
-
+ 
 on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
-
+ 
 jobs:
   generate:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      - uses: Platane/snk@v2
+      - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ayemaqu
-          svg_out_path: dist/github-snake-dark.svg
-          attribute_svgColor: fef08a
-          attribute_dotColor_empty: 1a1a2e
-          attribute_dotColor_1: 4a0030
-          attribute_dotColor_2: 8b0057
-          attribute_dotColor_3: c2185b
-          attribute_dotColor_4: f48fb1
-
-      - name: Push to output branch
+          outputs: |
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=fef08a
+ 
+      - name: Push to snake branch
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: snake
           force_orphan: true
+ 
