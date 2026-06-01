@@ -1,18 +1,14 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&size=26&pause=1000&color=D8A7CA&center=true&vCenter=true&width=650&lines=Hi+I'm+Ayema+%F0%9F%91%8B;Data+Analyst+%7C+Storyteller+%7C+Detective;Turning+Data+Into+Stories+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&size=26&pause=1000&color=E8A0BF&center=true&vCenter=true&width=650&lines=Hi+I'm+Ayema+%F0%9F%91%8B;Data+Analyst+%7C+Storyteller+%7C+Detective;Turning+Data+Into+Stories+%E2%9C%A8)](https://git.io/typing-svg)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f9a8d4,50:c084fc,100:a855f7&height=120&section=header"/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=17,18,19&height=100&section=header&text=&fontColor=fff"/>
 
 ---
 
-<div align="center">
-
 ### About me
-
-</div>
 
 Data analyst who believes the best insights are the ones that actually mean something to someone. I dig into messy datasets, find the story hiding in the numbers, and make sure that story lands whether you know SQL or not.
 
@@ -28,18 +24,18 @@ Always learning, always curious, always one more question away from a breakthrou
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-E8A0BF?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-C9B1D9?style=flat-square&logo=postgresql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-F4B8D1?style=flat-square&logo=tableau&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-E8A0BF?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-C9B1D9?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-F4B8D1?style=flat-square&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-E8A0BF?style=flat-square&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-C9B1D9?style=flat-square&logo=jupyter&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-F4B8D1?style=flat-square&logo=microsoftexcel&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-E8A0BF?style=flat-square&logo=sqlite&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-C9B1D9?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-F4B8D1?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Python](https://img.shields.io/badge/Python-f9a8d4?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-c084fc?style=flat-square&logo=postgresql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-e879f9?style=flat-square&logo=tableau&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-f9a8d4?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-c084fc?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-e879f9?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-f9a8d4?style=flat-square&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-c084fc?style=flat-square&logo=jupyter&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-e879f9?style=flat-square&logo=microsoftexcel&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-f9a8d4?style=flat-square&logo=sqlite&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-c084fc?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-e879f9?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 </div>
 
@@ -65,11 +61,11 @@ Always learning, always curious, always one more question away from a breakthrou
 
 <div align="center">
 
-![Ayema's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayemaqu&show_icons=true&hide_border=true&title_color=E8A0BF&icon_color=C9B1D9&text_color=D8A7CA&bg_color=0d1117)
+<img src="https://github-readme-stats.vercel.app/api?username=ayemaqu&show_icons=true&hide_border=true&title_color=f9a8d4&icon_color=c084fc&text_color=e879f9&bg_color=0d1117" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayemaqu&theme=rose_pine&hide_border=true&background=00000000&ring=E8A0BF&fire=F4B8D1&currStreakLabel=C9B1D9)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayemaqu&hide_border=true&background=0d1117&ring=f9a8d4&fire=e879f9&currStreakLabel=c084fc&sideLabels=f9a8d4&dates=c084fc&currStreakNum=e879f9&sideNums=f9a8d4" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayemaqu&layout=compact&theme=rose_pine&hide_border=true&bg_color=00000000&title_color=E8A0BF&text_color=D8A7CA)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayemaqu&layout=compact&hide_border=true&title_color=f9a8d4&text_color=e879f9&bg_color=0d1117" />
 
 </div>
 
@@ -79,19 +75,20 @@ Always learning, always curious, always one more question away from a breakthrou
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/ayemaqu/ayemaqu/output/github-contribution-grid-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/ayemaqu/ayemaqu/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=17,18,19&height=100&section=footer"/>
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-E8A0BF?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayemaqureshi)
-[![GitHub](https://img.shields.io/badge/GitHub-C9B1D9?style=flat-square&logo=github&logoColor=white)](https://github.com/ayemaqu)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:c084fc,100:f9a8d4&height=120&section=footer"/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-f9a8d4?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayemaqureshi)
+[![GitHub](https://img.shields.io/badge/GitHub-c084fc?style=flat-square&logo=github&logoColor=white)](https://github.com/ayemaqu)
 
 *"I ask 'why?' way too much — but it works out in data."*
 
 </div>
+
