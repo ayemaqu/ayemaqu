@@ -65,7 +65,7 @@ Always learning, always curious, always one more question away from a breakthrou
 
 <div align="center">
 
-![Ayema's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayemaqu&show_icons=true&theme=rose_pine&hide_border=true&bg_color=00000000&title_color=E8A0BF&icon_color=C9B1D9&text_color=D8A7CA)
+![Ayema's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayemaqu&show_icons=true&hide_border=true&title_color=E8A0BF&icon_color=C9B1D9&text_color=D8A7CA&bg_color=0d1117)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayemaqu&theme=rose_pine&hide_border=true&background=00000000&ring=E8A0BF&fire=F4B8D1&currStreakLabel=C9B1D9)
 
