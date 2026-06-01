@@ -74,8 +74,6 @@ Take a look at one of my data projects focused on how data impacts people: **[NY
 
 <img src="https://raw.githubusercontent.com/ayemaqu/ayemaqu/snake/github-snake-dark.svg" />
 
-<img src="https://raw.githubusercontent.com/ayemaqu/ayemaqu/output-3d/profile-3d-contrib/profile-south-season-animate.svg" />
-
 </div>
 
 ---
