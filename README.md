@@ -75,7 +75,7 @@ Always learning, always curious, always one more question away from a breakthrou
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ayemaqu/ayemaqu/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/ayemaqu/ayemaqu/snake/github-snake-dark.svg" />
 
 </div>
 
