@@ -58,7 +58,7 @@ Take a look at one of my data projects focused on how data impacts people: **[NY
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayemaqu&hide_border=true&background=0d1117&ring=f9a8d4&fire=e879f9&currStreakLabel=c084fc&sideLabels=f9a8d4&dates=c084fc&currStreakNum=e879f9&sideNums=f9a8d4" />
+<img src="https://streak-stats.demolab.com?user=ayemaqu&hide_border=true&background=0d1117&ring=f9a8d4&fire=e879f9&currStreakLabel=c084fc&sideLabels=f9a8d4&dates=c084fc&currStreakNum=e879f9&sideNums=f9a8d4" />
 
 </div>
 
