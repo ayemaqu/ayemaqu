@@ -61,6 +61,7 @@ Take a look at one of my data projects focused on how data impacts people: **[NY
 <img src="https://github-readme-stats-git-master-ayemaqus-projects.vercel.app/api?username=ayemaqu&show_icons=true&hide_border=true&title_color=f9a8d4&icon_color=c084fc&text_color=e879f9&bg_color=0d1117" />
 
 <img src="https://github-readme-stats-git-master-ayemaqus-projects.vercel.app/api/top-langs/?username=ayemaqu&layout=compact&hide_border=true&title_color=f9a8d4&text_color=e879f9&bg_color=0d1117" />
+
 ---
 
 ### 🐍 Contributions
