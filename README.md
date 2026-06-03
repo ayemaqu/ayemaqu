@@ -58,10 +58,9 @@ Take a look at one of my data projects focused on how data impacts people: **[NY
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ayemaqu&hide_border=true&background=0d1117&ring=f9a8d4&fire=e879f9&currStreakLabel=c084fc&sideLabels=f9a8d4&dates=c084fc&currStreakNum=e879f9&sideNums=f9a8d4" />
+<img src="https://github-readme-stats-git-master-ayemaqus-projects.vercel.app/api?username=ayemaqu&show_icons=true&hide_border=true&title_color=f9a8d4&icon_color=c084fc&text_color=e879f9&bg_color=0d1117" />
 
-</div>
-
+<img src="https://github-readme-stats-git-master-ayemaqus-projects.vercel.app/api/top-langs/?username=ayemaqu&layout=compact&hide_border=true&title_color=f9a8d4&text_color=e879f9&bg_color=0d1117" />
 ---
 
 ### 🐍 Contributions
