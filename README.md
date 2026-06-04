@@ -85,39 +85,82 @@ Take a look at one of my data projects focused on how data impacts people: **[NY
 
 ---
 
-#### 🗄️ SQL & Database Projects
+---
+
+### 🗂️ Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**[Theme Park Analysis](https://github.com/ayemaqu/Theme-Park-Analysis)**
+**[🏙️ NYC Food Access & Coverage Analysis](https://github.com/ayemaqu/NYC-Food-Access-Coverage-Analysis)**
 
-SQL-driven analysis of theme park data exploring guest satisfaction, revenue patterns, and staffing insights.
+Do the kids who need food the most actually have access to it? This project looks at food insecurity among children in NYC family shelters and maps how close — or far — they are from real food resources in their neighborhoods.
 
 **Key Insights:**
-- CA/NY markets show 3x higher customer lifetime value
-- Repeat guests spend 40% more
-- Recommended 25% Monday staffing increase
+- Many shelters are located in neighborhoods with limited food access
+- Resource availability doesn't always match where the need is highest
+- Data tells a clear story about equity gaps across boroughs
 
-![SQL](https://img.shields.io/badge/SQL-f9a8d4?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-c084fc?style=flat-square&logo=sqlite&logoColor=white)
-![Python](https://img.shields.io/badge/Python-e879f9?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-f9a8d4?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-c084fc?style=flat-square&logo=pandas&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-e879f9?style=flat-square&logo=tableau&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-f9a8d4?style=flat-square&logo=jupyter&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-**[Datathon — ACE Program](https://github.com/ayemaqu/Datathon-ACE-program)**
+**[🚶 Pedestrian Risk NYC](https://github.com/ayemaqu/Pedestrian-Risk-NYC)**
 
-Fast-paced team datathon project — real data, real decisions, real collaboration under pressure.
+When are pedestrians most likely to get hurt in NYC — and can we predict it? This project builds a machine learning model using real crash data to help NYC Vision Zero identify high-risk conditions before injuries happen.
 
-**Key Focus:**
-- Collaborative EDA under time constraints
-- Team-based insight generation
-- Presentation-ready findings
+**Key Insights:**
+- The evening commute (4–6 PM) is the most dangerous time citywide
+- Brooklyn has the highest pedestrian injury counts across nearly every hour
+- Distracted driving is the #1 cause of pedestrian injuries
+- The model correctly flags 84% of injury crashes
 
 ![Python](https://img.shields.io/badge/Python-f9a8d4?style=flat-square&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-c084fc?style=flat-square&logo=jupyter&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-c084fc?style=flat-square&logo=scikitlearn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-e879f9?style=flat-square&logo=streamlit&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-f9a8d4?style=flat-square&logo=pandas&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[📡 LinkNYC 5G Engagement Analysis](https://github.com/ayemaqu/LinkNYC-Engagement-Analysis)**
+
+Did the 5G upgrade actually make people use LinkNYC kiosks more? This project digs into weekly Wi-Fi usage data across NYC to find out who's engaging, when, and whether the city is reaching the neighborhoods that need connectivity most.
+
+**Key Insights:**
+- Every single week since 5G launched had active kiosk usage — the network never went quiet
+- About 80% of high-engagement weeks stayed strong the following week
+- Manhattan dominates usage, but outer borough coverage is growing
+- Seasonal patterns create predictable windows for ad campaigns
+
+![Python](https://img.shields.io/badge/Python-f9a8d4?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-c084fc?style=flat-square&logo=pandas&logoColor=white)
+![Folium](https://img.shields.io/badge/Folium-e879f9?style=flat-square&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-f9a8d4?style=flat-square&logo=jupyter&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+**[🎢 Theme Park Analysis](https://github.com/ayemaqu/Theme-Park-Analysis)**
+
+What keeps guests coming back — and what makes them spend more? This SQL-driven project analyzes theme park data to uncover revenue patterns, guest behavior, and staffing opportunities.
+
+**Key Insights:**
+- Guests from California and New York are worth 3x more over their lifetime than average
+- Repeat visitors spend 40% more per visit than first-timers
+- Monday is the most understaffed day relative to guest volume
+
+![SQL](https://img.shields.io/badge/SQL-f9a8d4?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-c084fc?style=flat-square&logo=sqlite&logoColor=white)
+![Python](https://img.shields.io/badge/Python-e879f9?style=flat-square&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-f9a8d4?style=flat-square&logo=python&logoColor=white)
 
 </td>
 </tr>
