@@ -56,11 +56,13 @@ Take a look at one of my data projects focused on how data impacts people: **[NY
 
 ### 📊 GitHub Stats
 
-<div align="center">
 
-<img src="https://github-readme-stats-git-master-ayemaqus-projects.vercel.app/api?username=ayemaqu&show_icons=true&hide_border=true&title_color=f9a8d4&icon_color=c084fc&text_color=e879f9&bg_color=0d1117" />
-
-<img src="https://github-readme-stats-git-master-ayemaqus-projects.vercel.app/api/top-langs/?username=ayemaqu&layout=compact&hide_border=true&title_color=f9a8d4&text_color=e879f9&bg_color=0d1117" />
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=ayemaqu&theme=radical&hide_border=true&background=1b1729&ring=ff6ac1&fire=f8f26a&currStreakNum=f8f26a&sideNums=f8f26a&currStreakLabel=ff6ac1&sideLabels=ff6ac1&dates=f8f26a" 
+    alt="GitHub streak stats"
+  />
+</p>
 
 ---
 
