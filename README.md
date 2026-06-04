@@ -56,11 +56,10 @@ Take a look at one of my data projects focused on how data impacts people: **[NY
 
 ### 📊 GitHub Stats
 
-
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=ayemaqu&theme=radical&hide_border=true&background=1b1729&ring=ff6ac1&fire=f8f26a&currStreakNum=f8f26a&sideNums=f8f26a&currStreakLabel=ff6ac1&sideLabels=ff6ac1&dates=f8f26a" 
-    alt="GitHub streak stats"
+    src="https://github-readme-stats.vercel.app/api?username=ayemaqu&show_icons=true&theme=radical&hide_border=true" 
+    alt="Ayema's GitHub stats"
   />
 </p>
 
@@ -76,6 +75,80 @@ Take a look at one of my data projects focused on how data impacts people: **[NY
 
 ---
 
+![Python](https://img.shields.io/badge/Python-f9a8d4?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-c084fc?style=flat-square&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-e879f9?style=flat-square&logo=jupyter&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+#### 🗄️ SQL & Database Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[Theme Park Analysis](https://github.com/ayemaqu/Theme-Park-Analysis)**
+
+SQL-driven analysis of theme park data exploring guest satisfaction, revenue patterns, and staffing insights.
+
+**Key Insights:**
+- CA/NY markets show 3x higher customer lifetime value
+- Repeat guests spend 40% more
+- Recommended 25% Monday staffing increase
+
+![SQL](https://img.shields.io/badge/SQL-f9a8d4?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-c084fc?style=flat-square&logo=sqlite&logoColor=white)
+![Python](https://img.shields.io/badge/Python-e879f9?style=flat-square&logo=python&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+**[Datathon — ACE Program](https://github.com/ayemaqu/Datathon-ACE-program)**
+
+Fast-paced team datathon project — real data, real decisions, real collaboration under pressure.
+
+**Key Focus:**
+- Collaborative EDA under time constraints
+- Team-based insight generation
+- Presentation-ready findings
+
+![Python](https://img.shields.io/badge/Python-f9a8d4?style=flat-square&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-c084fc?style=flat-square&logo=jupyter&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🛠️ Project Management & Design Tools
+
+<div align="center">
+
+![Jira](https://img.shields.io/badge/Jira-f9a8d4?style=flat-square&logo=jira&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-c084fc?style=flat-square&logo=notion&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-e879f9?style=flat-square&logo=figma&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-f9a8d4?style=flat-square&logo=trello&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-c084fc?style=flat-square&logo=slack&logoColor=white)
+![Google Slides](https://img.shields.io/badge/Google%20Slides-e879f9?style=flat-square&logo=google&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=ayemaqu&color=f9a8d4&style=flat-square&label=Profile+Views)
+
+</div>
+
+
+---
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:c084fc,100:f9a8d4&height=120&section=footer"/>
@@ -86,3 +159,6 @@ Take a look at one of my data projects focused on how data impacts people: **[NY
 *"I ask 'why?' way too much but it works out in data."*
 
 </div>
+
+
+
