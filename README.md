@@ -44,46 +44,13 @@ Take a look at one of my data projects focused on how data impacts people: **[NY
 ### 🔍 Currently working on
 
 **Formula 1 Performance Analysis**
-> Exploring whether race outcomes come down to the driver, the team strategy, or both and whether that balance has shifted across different eras of the sport.
+> Exploring whether race outcomes come down to the driver, the team strategy, or both — and whether that balance has shifted across different eras of the sport.
 
 ---
 
-### Currently learning
+### 📚 Currently learning
 
-> Diving deeper into data structures, storage types, and their use cases including the **Medallion Architecture** (Bronze → Silver → Gold) and how data moves through a pipeline from raw to ready.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=ayemaqu&show_icons=true&theme=radical&hide_border=true" 
-    alt="Ayema's GitHub stats"
-  />
-</p>
-
----
-
-### 🐍 Contributions
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ayemaqu/ayemaqu/snake/github-snake-dark.svg" />
-
-</div>
-
----
-
-![Python](https://img.shields.io/badge/Python-f9a8d4?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-c084fc?style=flat-square&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-e879f9?style=flat-square&logo=jupyter&logoColor=white)
-
-</td>
-</tr>
-</table>
-
----
+> Diving deeper into data structures, storage types, and their use cases — including the **Medallion Architecture** (Bronze → Silver → Gold) and how data moves through a pipeline from raw to ready.
 
 ---
 
@@ -183,12 +150,13 @@ What keeps guests coming back — and what makes them spend more? This SQL-drive
 
 ---
 
+### 🐍 Contributions
+
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=ayemaqu&color=f9a8d4&style=flat-square&label=Profile+Views)
+<img src="https://raw.githubusercontent.com/ayemaqu/ayemaqu/snake/github-snake-dark.svg" />
 
 </div>
-
 
 ---
 
@@ -196,12 +164,13 @@ What keeps guests coming back — and what makes them spend more? This SQL-drive
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:c084fc,100:f9a8d4&height=120&section=footer"/>
 
+![Profile Views](https://komarev.com/ghpvc/?username=ayemaqu&color=f9a8d4&style=flat-square&label=Profile+Views)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-f9a8d4?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayemaqureshi)
 [![GitHub](https://img.shields.io/badge/GitHub-c084fc?style=flat-square&logo=github&logoColor=white)](https://github.com/ayemaqu)
 
-*"I ask 'why?' way too much but it works out in data."*
+*"I ask 'why?' way too much — but it works out in data."*
 
 </div>
-
 
 
