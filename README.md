@@ -50,7 +50,7 @@ Take a look at one of my data projects focused on how data impacts people: **[NY
 
 ### 📚 Currently learning
 
-> Diving deeper into data structures, storage types, and their use cases — including the **Medallion Architecture** (Bronze → Silver → Gold) and how data moves through a pipeline from raw to ready.
+> Diving deeper into data structures, storage types, and their use cases — including the **Medallion Architecture** (Bronze → Silver → Gold) and how data moves through a pipeline from raw to ready. Also learning how to implent AI in workflows and improve AI fluency through the 4 D's - Delegation, Description, Discernment, Diligence.
 
 ---
 
