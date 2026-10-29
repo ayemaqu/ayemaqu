@@ -39,25 +39,21 @@ Take a look at one of my data projects focused on how data impacts people: **[NY
 
 </div>
 
+---
+
 <!--
 ### 🔍 Currently working on
 
 **Formula 1 Performance Analysis**
 > Exploring whether race outcomes come down to the driver, the team strategy, or both — and whether that balance has shifted across different eras of the sport.
---> 
----
-
-### 🔍 Currently working on
-
-**Formula 1 Performance Analysis**
-> Exploring whether race outcomes come down to the driver, the team strategy, or both — and whether that balance has shifted across different eras of the sport.
 
 ---
+-->
 
 ### 📚 Currently learning
 
 > Exploring **Network Analysis**: how nodes (people, places, things) and edges (the connections between them) reveal patterns that rows and columns can't show on their own. Working with centrality, communities, and graph visualization.
-> 
+
 ---
 
 ### 🗂️ Featured Projects
@@ -178,5 +174,3 @@ What keeps guests coming back — and what makes them spend more? This SQL-drive
 *"I ask 'why?' way too much — but it works out in data."*
 
 </div>
-
-
