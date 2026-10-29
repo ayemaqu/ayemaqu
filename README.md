@@ -39,6 +39,12 @@ Take a look at one of my data projects focused on how data impacts people: **[NY
 
 </div>
 
+<!--
+### 🔍 Currently working on
+
+**Formula 1 Performance Analysis**
+> Exploring whether race outcomes come down to the driver, the team strategy, or both — and whether that balance has shifted across different eras of the sport.
+--> 
 ---
 
 ### 🔍 Currently working on
@@ -50,8 +56,8 @@ Take a look at one of my data projects focused on how data impacts people: **[NY
 
 ### 📚 Currently learning
 
-> Diving deeper into data structures, storage types, and their use cases — including the **Medallion Architecture** (Bronze → Silver → Gold) and how data moves through a pipeline from raw to ready. Also learning how to implent AI in workflows and improve AI fluency through the 4 D's - Delegation, Description, Discernment, Diligence.
-
+> Exploring **Network Analysis**: how nodes (people, places, things) and edges (the connections between them) reveal patterns that rows and columns can't show on their own. Working with centrality, communities, and graph visualization.
+> 
 ---
 
 ### 🗂️ Featured Projects
